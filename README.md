@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blckfsh
-- 👀 I’m interested in creating web and mobile applications and hopes to solve real-world issues
-- 🌱 I’m currently learning blockchain development
-- 💞️ I’m looking to collaborate on mobile applications and blockchain related projects
+- 👀 I’m interested in creating web3 applications and hopes to solve real-world issues
+- 🌱 I’m constantly learning blockchain development
+- 💞️ I’m looking to collaborate on blockchain-related projects
 - 📫 You can reach me thru my email: iamtherealblackfish@gmail.com
 
 <!---
