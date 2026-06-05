@@ -1,6 +1,6 @@
 # 👋 @blckfsh
 
-**Blockchain Developer · Smart Contract Engineer · Web3 Builder**
+**FullStack Developer · Blockchain Developer · Smart Contract Engineer · Web3 Builder**
 
 3+ years building dApps and smart contracts on Ethereum (Solidity). Currently expanding into desktop and backend development.
 
@@ -25,15 +25,17 @@
 - **Chain Tactics** — Fully on-chain strategy game with transparent, immutable game state
 - **NFT Loyalty Program** — Audited Solidity contracts (100% secure rating) + frontend
 - **Staking Platform / Bridge / Faucet** — Frontend + Web3 integrations
+- **Prediction Market** — Decentralized prediction market platform
+- **Private Storage** — Desktop & web app for private file storage (Electron + React)
 
 ---
 
 ## 🌱 Currently Exploring
 
-Smart contract security · Gas optimization · ZK Proofs · Fully on-chain game mechanics
+Claude Code · Cursor · AI coding agents · Developer tooling & automation
 
 ---
 
-## 📫 iamtherealblackfish@gmail.com
+## 📫 montero.lloyd30@gmail.com
 
 *"Building decentralized systems that push the boundaries of blockchain technology."*
