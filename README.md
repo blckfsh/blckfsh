@@ -2,7 +2,7 @@
 
 **FullStack Developer · Blockchain Developer · Smart Contract Engineer · Web3 Builder**
 
-3+ years building dApps and smart contracts on Ethereum (Solidity). Currently expanding into desktop and backend development.
+4+ years building dApps and smart contracts on Ethereum (Solidity). Currently expanding into desktop and backend development.
 
 ---
 
